@@ -1,14 +1,14 @@
 import discord
 from discord.ext.commands import Bot
 import os
-from dotenv import load_dotenv
+from boto.s3.connection import S3Connection
 from api_request import get_spell_info, get_spell_list, get_monsters_list, get_list_of
 
 load_dotenv()
 
 version = '1.0.0'
 bot = Bot(command_prefix='$')
-token = os.getenv("DISCORD_TOKEN")
+token = S3Connection(os.environ["DISCORD_TOKEN"])
 bmab = 'https://www.buymeacoffee.com/kevinneves'
 
 
