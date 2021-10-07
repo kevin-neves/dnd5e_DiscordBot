@@ -1,4 +1,4 @@
-# Discord Bot D&D 5ed 
+# Discord Bot D&D 5ed 🎲🎲
 This is the version 1.0 fo the discord bot
 
 ## Features and Usage
@@ -17,6 +17,9 @@ You can add this bot to your server using the link: [ADD BOT](https://discord.co
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
+
+## If you liked my work, consider [buying me a beer](https://www.buymeacoffee.com/kevinneves) 🥳 
+
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
