@@ -1,4 +1,4 @@
-# Discord Bot D&D 5ed 🎲🎲
+# Discord Bot D&D 5ed Reference 🎲🎲
 This is the version 1.0 fo the discord bot
 
 ## Features and Usage
