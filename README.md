@@ -10,6 +10,9 @@ This is the version 1.0 fo the discord bot
 ## Test
 You can test it on this test servidor [Link](https://discord.gg/r3ZmYJm4)
 
+## Add the bot to your server
+You can add this bot to your server using the link: [ADD BOT](https://discord.com/api/oauth2/authorize?client_id=854685605978832896&scope=bot&permissions=2148002880)
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
